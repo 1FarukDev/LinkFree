@@ -1,0 +1,27 @@
+{
+  "name": "Faruk Ajibade",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Frontend Engineer",
+  "avatar": "https://github.com/1Faruk.png",
+}
+ "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/yovngprof",
+      "icon": "FaTwitter"
+    }
+  ]
+}
+{
+      "name": "Follow me on Instagram",
+      "url": "https://twitter.com/EddieAndSaraExplore",
+      "icon": "FaInstagram"
+    }
+  ]
+{
+      "name": "Follow me on Github",
+      "url": "https://github.com/1FarukDev",
+      "icon": "FaGithub"
+    }
+  ]
